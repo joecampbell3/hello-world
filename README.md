@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+I used to use Intersolv for change management. Now it's time to learn github.
